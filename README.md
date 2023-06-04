@@ -22,8 +22,9 @@ This is one of my earliest independent project's that will serve as a landing si
 * Or clone the repository to edit  
 * Navigate to top level of directory
 * open index.html in compatible web browser
-* here is a link for fast access
-https://github.com/Estelope/Portfolio.git
+* here are some links for fast access
+repo: https://github.com/Estelope/Portfolio.git
+live site : https://estelope.github.io/Portfolio/
 
 
 ## Known Bugs

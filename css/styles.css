@@ -1,6 +1,7 @@
 h1 {
-  color: darksalmon ;
+  color: white;
   background-color: rgb(5, 73, 3);
+  padding: 1%;
 }
 
 footer {
@@ -10,9 +11,13 @@ footer {
   color: white;
 }
 
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .column {
   width: 450px;
-  float: left; 
+  float: left;
   padding: 1%;
   background-color: white;
 }
@@ -25,6 +30,9 @@ footer {
   color: white;
 }
 
-.Background {
-  background-color: darksalmon;
+h2 {
+  color: black;
+  border: 5px rgb(5, 73, 3);
+  border-style: solid;
+  background-color: rgb(5, 73, 3);
 }
